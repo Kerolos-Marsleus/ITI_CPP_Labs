@@ -1,2 +1,4 @@
 main
 *.o
+compile_commands.json
+a.out
